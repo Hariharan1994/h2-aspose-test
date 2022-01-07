@@ -16,7 +16,7 @@ public class SettingCons {
 		throw new IllegalStateException();
 	}
 
-	public static final String TOOL_BUILD_NO = "B021";
+	public static final String TOOL_BUILD_NO = "B001";
 
 	public static final String JSON_UTF8_ENCODING = "application/json; charset=UTF-8";
 
